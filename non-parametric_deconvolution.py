@@ -47,7 +47,7 @@ def modelfree_deconv(data, aif, dt, n_offset=1, hct=0.45,
 
     # impulse response
     I = np.dot(1/dt*A_inv,
-               data.reshape(len(aif),np.prod(data.shape)/len(aif)))
+               data.reshape(len(aif), np.prod(data.shape)//len(aif)))
 
     # compute flow in ml/100ml/min
     f = np.max(I,axis=0).reshape(data.shape[1:])
