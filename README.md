@@ -5,8 +5,8 @@ Clinical parameters for chronic obstructive pulmonary disease (COPD) are of para
 Please see the ipython notebook (example.ipynb) for instructions on how to use the code.
 
 
-Referencing
-===========
+Cite Us
+=======
 If you use this code in your research, please reference the the following publication:  
 > Hinrich B. Winther, Marcel Gutberlet, Christian Hundt, Till F. Kaireit, Tawfik Moher Alsady, Bertil Schmidt, Frank Wacker, Yanping Sun, Sabine Dettmer, Sabine K. Maschke, Jan B. Hinrichs, Sachin Jambawalikar, Martin R. Prince, R. Graham Barr, and Jens Vogel‐Claussen. “Deep Semantic Lung Segmentation for Tracking Potential Pulmonary Perfusion Biomarkers in Chronic Obstructive Pulmonary Disease (COPD): The Multi‐ethnic Study of Atherosclerosis COPD Study.” Journal of Magnetic Resonance Imaging, July 2019. https://doi.org/10.1002/jmri.26853.
 
