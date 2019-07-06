@@ -1,4 +1,4 @@
-Clinical parameters for chronic obstructive pulmonary disease (COPD) are of paramount importance in determining clinical parameters for the identification of biomarkers for treatment and therapy monitoring. This is the companion repository for the [JMRI] publication: ["Deep Semantic Lung Segmentation for Tracking Potential Pulmonary Perfusion Biomarkers in Chronic Obstructive Pulmonary Disease (COPD): The Multi-Ethnic Study of Atherosclerosis COPD Study"][paper]. The code implements a non-parametric deconvolution for 4D DCE MRI scans.
+Clinical parameters for chronic obstructive pulmonary disease (COPD) are of paramount importance in determining clinical parameters for the identification of biomarkers for treatment and therapy monitoring. This is the companion repository for the [JMRI] publication: ["Deep Semantic Lung Segmentation for Tracking Potential Pulmonary Perfusion Biomarkers in Chronic Obstructive Pulmonary Disease (COPD): The Multi-Ethnic Study of Atherosclerosis COPD Study"][paper]. The code implements a non-parametric deconvolution for 4D DCE MRI scans according to Sourbron et al. ([PMI-0.4]) and Zöllner et al. (UMMPerfusion) in Python and Matlab.
 
 ![perfusion, mean transit time, and blood volume maps](images/maps.png "perfusion, mean transit time, and blood volume maps")
 
@@ -20,3 +20,5 @@ Funding Information
 
 [JMRI]: https://onlinelibrary.wiley.com/journal/15222586
 [paper]: https://doi.org/10.1002/jmri.26853
+[PMI-0.4]: https://github.com/plaresmedima/PMI-0.4
+[UMMPerfusion]: http://ikrsrv1.medma.uni-heidelberg.de/redmine/projects/ummperfusion
